@@ -1,0 +1,10 @@
+datasets
+smolagents==1.18.0
+langchain-core
+langchain-community
+rank_bm25
+ddgs
+llama-index-core
+llama-index-retrievers-bm25
+
+huggingface-hub==0.25.0
